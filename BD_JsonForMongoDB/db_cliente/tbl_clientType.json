@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "638a5728bd25100569e2d22e"
+  },
+  "description": "Personal",
+  "idClientType": 1
+},{
+  "_id": {
+    "$oid": "638a5728bd25100569e2d22f"
+  },
+  "description": "Empresarial",
+  "idClientType": 2
+}]

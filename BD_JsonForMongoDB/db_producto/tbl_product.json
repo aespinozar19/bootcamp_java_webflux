@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6383e2838dab68cfa9dcbc27"
+  },
+  "idProduct": 1,
+  "description": "Producto Pasivos Ahorros",
+  "idProductType": 1,
+  "idProductSubType": 1
+},{
+  "_id": {
+    "$oid": "6383e2838dab68cfa9dcbc28"
+  },
+  "idProduct": 2,
+  "description": "Producto Pasivos Cuenta corriente",
+  "idProductType": 1,
+  "idProductSubType": 2
+},{
+  "_id": {
+    "$oid": "6383e2838dab68cfa9dcbc29"
+  },
+  "idProduct": 3,
+  "description": "Producto Pasivos Plazo fijo",
+  "idProductType": 1,
+  "idProductSubType": 3
+},{
+  "_id": {
+    "$oid": "6383e2838dab68cfa9dcbc2a"
+  },
+  "idProduct": 4,
+  "description": "Producto Activos Personal",
+  "idProductType": 2,
+  "idProductSubType": 4
+},{
+  "_id": {
+    "$oid": "6383e2838dab68cfa9dcbc2b"
+  },
+  "idProduct": 5,
+  "description": "Producto Activos Empresarial",
+  "idProductType": 2,
+  "idProductSubType": 5
+},{
+  "_id": {
+    "$oid": "6383e2838dab68cfa9dcbc2c"
+  },
+  "idProduct": 6,
+  "description": "Producto Activos Tarjeta de Crédito personal o empresarial",
+  "idProductType": 2,
+  "idProductSubType": 6
+},{
+  "_id": {
+    "$oid": "6384256036d34c757245fd09"
+  },
+  "idProduct": 7,
+  "idProductType": 12,
+  "idProductSubType": 5,
+  "description": "product 07",
+  "_class": "com.bootcamp.java.product.entity.Product"
+},{
+  "_id": {
+    "$oid": "638425d5200036439e954fa9"
+  },
+  "idProduct": 8,
+  "idProductType": 12,
+  "idProductSubType": 5,
+  "description": "product 08",
+  "_class": "com.bootcamp.java.product.entity.Product"
+},{
+  "_id": {
+    "$oid": "6384273b43e1323e6a0fc191"
+  },
+  "idProduct": 10,
+  "idProductType": 12,
+  "idProductSubType": 5,
+  "description": "product 088",
+  "_class": "com.bootcamp.java.product.entity.Product"
+},{
+  "_id": {
+    "$oid": "6386ae66f050bd32a7e83b85"
+  },
+  "idProduct": 9999,
+  "idProductType": 1,
+  "idProductSubType": 2,
+  "description": "descripcion actualizada OK",
+  "_class": "com.bootcamp.java.product.entity.Product"
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "638a4ef1234d4e505ecc152f"
+  },
+  "idTransactionType": 1,
+  "description": "deposito"
+},{
+  "_id": {
+    "$oid": "638a4ef1234d4e505ecc1530"
+  },
+  "idTransactionType": 2,
+  "description": "retiro"
+},{
+  "_id": {
+    "$oid": "638a4ef1234d4e505ecc1531"
+  },
+  "idTransactionType": 3,
+  "description": "pago"
+},{
+  "_id": {
+    "$oid": "638a4ef1234d4e505ecc1532"
+  },
+  "idTransactionType": 4,
+  "description": "consumo"
+}]
